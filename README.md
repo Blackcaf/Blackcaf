@@ -10,8 +10,6 @@
   Привет, я Blackcaf! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=5AF73F&center=true&vCenter=true&width=435&lines=Welcome+to+my+repository;I'm+a+student+of+ITMO;Here+are+my+projects+;I+hope+this+helps+you" />
 </p>
